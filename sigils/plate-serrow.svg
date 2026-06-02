@@ -1,6 +1,6 @@
 <svg viewBox="0 0 900 760" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="t d" font-family="'Courier New', ui-monospace, monospace">
 <title id="t">SERROW — codex plate</title>
-<desc id="d">An annotated technical-schematic plate: a sacred-geometry sigil dissected with dimension lines, runic callouts and hermetic equations, presenting Serrow and the work, Galdr.</desc>
+<desc id="d">An annotated technical-schematic plate: a sacred-geometry sigil dissected with dimension lines, runic callouts and hermetic equations, presenting Serrow and the work.</desc>
 <style>
   :root{
     --paper:#e8e1d1; --ink:#1b1a16; --soft:#47443a; --faint:#b6ad99;
@@ -168,4 +168,5 @@
   <path d="M0,4 L0,16 M-5,10 L5,10" class="nofill" stroke="var(--red)" stroke-width="1.4"/>
   <text x="0" y="36" text-anchor="middle" class="micro tfaint">SIGIL · MERCURIUS</text>
 </g>
-<text x="450" y="726" text-anchor="middle" class="tsoft" fo
+<text x="450" y="726" text-anchor="middle" class="tsoft" font-size="11px" letter-spacing="3px">∴ &#160; SOLVE ET COAGULA &#160;·&#160; ONE FORGE &#160;·&#160; MANY FIRES &#160; ∴</text>
+</svg>
