@@ -7,7 +7,7 @@
 <!-- AUTO_UPDATE_START -->
 <div align="center">
 
-<em>The sigil was drawn before the intention was named — will moving through probability like a current, the outcome already decided somewhere the eye cannot reach.</em>
+<em>Something raw has gone down into the crucible and the heat holds even, the mass darkening before it can turn, and I cannot yet say what is gathering gold at the bottom.</em>
 
 <sub>witnessed the first of june</sub>
 
