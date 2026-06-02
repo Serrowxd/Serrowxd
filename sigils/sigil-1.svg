@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 280" fill="none">
+  <!-- vertical arm -->
+  <line x1="120" y1="32" x2="120" y2="248" stroke="#586069" stroke-width="1"/>
+  <!-- horizontal arm -->
+  <line x1="18" y1="140" x2="222" y2="140" stroke="#586069" stroke-width="1"/>
+  <!-- diagonal NW–SE -->
+  <line x1="42" y1="58" x2="198" y2="222" stroke="#444d56" stroke-width="0.75"/>
+  <!-- diagonal NE–SW -->
+  <line x1="198" y1="58" x2="42" y2="222" stroke="#444d56" stroke-width="0.75"/>
+
+  <!-- center ◉ -->
+  <circle cx="120" cy="140" r="10" stroke="#586069" stroke-width="1"/>
+  <circle cx="120" cy="140" r="3" fill="#586069"/>
+
+  <!-- † top: crossbar + terminal -->
+  <line x1="106" y1="44" x2="134" y2="44" stroke="#586069" stroke-width="1"/>
+  <circle cx="120" cy="20" r="2.5" fill="#444d56"/>
+
+  <!-- † bottom: crossbar + terminal -->
+  <line x1="106" y1="236" x2="134" y2="236" stroke="#586069" stroke-width="1"/>
+  <circle cx="120" cy="260" r="2.5" fill="#444d56"/>
+
+  <!-- arm terminals -->
+  <circle cx="10"  cy="140" r="1.5" fill="#444d56"/>
+  <circle cx="230" cy="140" r="1.5" fill="#444d56"/>
+
+  <!-- dot field — NW -->
+  <circle cx="74"  cy="74"  r="2"   fill="#444d56"/>
+  <circle cx="52"  cy="96"  r="1.2" fill="#3a424a"/>
+  <circle cx="56"  cy="118" r="1"   fill="#3a424a"/>
+  <circle cx="82"  cy="60"  r="1"   fill="#3a424a"/>
+  <circle cx="96"  cy="90"  r="1"   fill="#3a424a"/>
+
+  <!-- dot field — NE -->
+  <circle cx="166" cy="74"  r="2"   fill="#444d56"/>
+  <circle cx="188" cy="96"  r="1.2" fill="#3a424a"/>
+  <circle cx="184" cy="118" r="1"   fill="#3a424a"/>
+  <circle cx="158" cy="60"  r="1"   fill="#3a424a"/>
+  <circle cx="144" cy="90"  r="1"   fill="#3a424a"/>
+
+  <!-- dot field — SW -->
+  <circle cx="74"  cy="206" r="2"   fill="#444d56"/>
+  <circle cx="52"  cy="184" r="1.2" fill="#3a424a"/>
+  <circle cx="56"  cy="162" r="1"   fill="#3a424a"/>
+  <circle cx="82"  cy="220" r="1"   fill="#3a424a"/>
+  <circle cx="96"  cy="190" r="1"   fill="#3a424a"/>
+
+  <!-- dot field — SE -->
+  <circle cx="166" cy="206" r="2"   fill="#444d56"/>
+  <circle cx="188" cy="184" r="1.2" fill="#3a424a"/>
+  <circle cx="184" cy="162" r="1"   fill="#3a424a"/>
+  <circle cx="158" cy="220" r="1"   fill="#3a424a"/>
+  <circle cx="144" cy="190" r="1"   fill="#3a424a"/>
+
+  <!-- mid-arm dots -->
+  <circle cx="34"  cy="140" r="1.5" fill="#3a424a"/>
+  <circle cx="206" cy="140" r="1.5" fill="#3a424a"/>
+  <circle cx="120" cy="62"  r="1.5" fill="#3a424a"/>
+  <circle cx="120" cy="218" r="1.5" fill="#3a424a"/>
+</svg>

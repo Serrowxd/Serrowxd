@@ -1,0 +1,170 @@
+<svg viewBox="0 0 900 760" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="t d" font-family="'Courier New', ui-monospace, monospace">
+<title id="t">SERROW — codex plate</title>
+<desc id="d">An annotated technical-schematic plate: a sacred-geometry sigil dissected with dimension lines, runic callouts and hermetic equations, presenting Serrow and the work, Galdr.</desc>
+<style>
+  :root{
+    --paper:#e8e1d1; --ink:#1b1a16; --soft:#47443a; --faint:#b6ad99;
+    --accent:#6e6140; --red:#7c3a2c; --grain:0.05;
+  }
+  @media (prefers-color-scheme: dark){
+    :root{
+      --paper:#14161a; --ink:#cdbf9f; --soft:#8d856c; --faint:#363941;
+      --accent:#c8b99a; --red:#b56a52; --grain:0.06;
+    }
+  }
+  .bg{fill:var(--paper);}
+  .ink{stroke:var(--ink);} .soft{stroke:var(--soft);} .faint{stroke:var(--faint);}
+  .nofill{fill:none;}
+  text{fill:var(--ink);}
+  .tsoft{fill:var(--soft);} .tfaint{fill:var(--faint);} .tred{fill:var(--red);}
+  .hair{stroke-width:0.7;} .thin{stroke-width:1;} .med{stroke-width:1.4;}
+  .dash{stroke-dasharray:2 4;} .dash2{stroke-dasharray:1 6;} .dash3{stroke-dasharray:6 5;}
+  .lbl{font-size:11px; letter-spacing:1.5px;}
+  .micro{font-size:8.5px; letter-spacing:1px;}
+  .anno{font-size:10px; font-style:italic; letter-spacing:.4px;}
+  .num{font-size:9px; letter-spacing:.5px;}
+</style>
+<defs>
+  <filter id="pencil" x="-6%" y="-6%" width="112%" height="112%">
+    <feTurbulence type="fractalNoise" baseFrequency="0.013 0.02" numOctaves="2" seed="11" result="n"/>
+    <feDisplacementMap in="SourceGraphic" in2="n" scale="3.1" xChannelSelector="R" yChannelSelector="G"/>
+  </filter>
+  <filter id="grain"><feTurbulence type="fractalNoise" baseFrequency="0.9" numOctaves="2" stitchTiles="stitch"/><feColorMatrix type="saturate" values="0"/></filter>
+  <marker id="ar" markerWidth="9" markerHeight="9" refX="7" refY="3" orient="auto"><path d="M0,0 L7,3 L0,6" class="nofill ink hair"/></marker>
+</defs>
+<rect class="bg" x="0" y="0" width="900" height="760"/>
+<rect x="0" y="0" width="900" height="760" filter="url(#grain)" opacity="0.05"/>
+<g class="ink hair nofill">
+  <rect x="26" y="26" width="848" height="708"/>
+  <rect x="32" y="32" width="836" height="696" class="faint dash2"/>
+</g>
+<g class="soft hair">
+  <line x1="20" y1="26" x2="32" y2="26"/><line x1="26" y1="20" x2="26" y2="32"/>
+  <line x1="868" y1="734" x2="880" y2="734"/><line x1="874" y1="728" x2="874" y2="740"/>
+</g>
+<text x="44" y="58" class="micro tfaint">WITNESSED · I · VI · MMXXVI</text>
+<text x="856" y="58" class="micro tfaint" text-anchor="end">PLATE 001 — SERROWXD</text>
+<text x="450" y="86" text-anchor="middle" font-size="46" letter-spacing="14" font-weight="700">SERROW</text>
+<text x="450" y="108" text-anchor="middle" class="lbl tsoft">ᚷ &#160;·&#160; ᛏ &#160;·&#160; ᚹ</text>
+<line x1="360" y1="120" x2="540" y2="120" class="faint hair dash"/>
+<line x1="450" y1="132" x2="450" y2="690" class="faint hair dash2"/>
+<line x1="220" y1="400" x2="680" y2="400" class="faint hair dash2"/>
+<g filter="url(#pencil)">
+  <g class="ink nofill">
+    <circle cx="450" cy="400" r="62" class="thin"/>
+    <circle cx="450" cy="400" r="104" class="thin"/>
+    <circle cx="450" cy="400" r="150" class="hair"/>
+  </g>
+  <g>
+    <circle cx="450" cy="400" r="128" class="nofill faint hair dash3"/>
+    <animateTransform attributeName="transform" type="rotate" from="360 450 400" to="0 450 400" dur="190s" repeatCount="indefinite"/>
+  </g>
+  <g class="soft hair nofill">
+    <circle cx="408" cy="400" r="62"/><circle cx="492" cy="400" r="62"/>
+  </g>
+  <g class="soft hair nofill">
+    <circle cx="450" cy="400" r="31"/>
+    <circle cx="450" cy="369" r="31"/><circle cx="450" cy="431" r="31"/>
+    <circle cx="477" cy="384" r="31"/><circle cx="477" cy="416" r="31"/>
+    <circle cx="423" cy="384" r="31"/><circle cx="423" cy="416" r="31"/>
+  </g>
+  <g class="ink thin">
+    <line x1="450" y1="250" x2="450" y2="550"/>
+    <line x1="300" y1="400" x2="600" y2="400"/>
+    <line x1="344" y1="294" x2="556" y2="506"/>
+    <line x1="556" y1="294" x2="344" y2="506"/>
+  </g>
+  <g class="ink hair nofill">
+    <path d="M450,250 l-9,18 l9,12 l9,-12 z"/>
+    <path d="M450,550 l-9,-18 l9,-12 l9,12 z"/>
+    <path d="M300,400 l18,-9 l12,9 l-12,9 z"/>
+    <path d="M600,400 l-18,-9 l-12,9 l12,9 z"/>
+  </g>
+  <g class="soft hair nofill">
+    <path d="M450,344 L498,428 L402,428 Z"/>
+    <path d="M450,456 L402,372 L498,372 Z"/>
+  </g>
+</g>
+<circle cx="450" cy="400" r="4.5" fill="var(--red)"/>
+<circle cx="450" cy="400" r="9" class="nofill" stroke="var(--red)" stroke-width="0.8"/>
+<g class="soft hair">
+  <line x1="450" y1="400" x2="450" y2="250" class="dash"/>
+  <line x1="450" y1="400" x2="556" y2="294" class="dash"/>
+  <text x="462" y="268" class="num tfaint">r = 150 u</text>
+  <text x="520" y="318" class="num tfaint">θ 45°</text>
+</g>
+<g>
+  <path d="M300,400 C250,400 232,372 214,360" class="nofill soft hair" marker-end="url(#ar)"/>
+  <text x="60" y="350" class="anno">iii rings —</text>
+  <text x="60" y="364" class="anno tsoft">solve · coagula · solve</text>
+</g>
+<g>
+  <path d="M408,452 C360,486 300,492 240,496" class="nofill soft hair" marker-end="url(#ar)"/>
+  <text x="60" y="492" class="anno">vesica piscis —</text>
+  <text x="60" y="506" class="anno tsoft">the form held between two</text>
+</g>
+<g>
+  <path d="M450,250 C450,212 470,196 506,188" class="nofill soft hair" marker-end="url(#ar)"/>
+  <text x="512" y="180" class="anno">viii points</text>
+  <text x="512" y="194" class="anno tsoft">will → form</text>
+</g>
+<g>
+  <path d="M459,400 C520,400 540,432 560,452" class="nofill soft hair" marker-end="url(#ar)"/>
+  <text x="566" y="450" class="anno tred">prima materia</text>
+  <text x="566" y="464" class="anno tsoft">the point before the name</text>
+</g>
+<g>
+  <line x1="660" y1="300" x2="760" y2="300" class="ink hair"/>
+  <text x="760" y="290" text-anchor="end" class="lbl tsoft">THE WORK</text>
+  <text x="760" y="330" text-anchor="end" font-size="26" letter-spacing="4" font-weight="700">GALDR</text>
+  <text x="760" y="350" text-anchor="end" class="anno tsoft">open registry for AI agent skills</text>
+  <text x="760" y="365" text-anchor="end" class="anno tsoft">npm for agents</text>
+  <path d="M672,344 C640,360 620,376 604,388" class="nofill soft hair dash" marker-end="url(#ar)"/>
+  <text x="760" y="392" text-anchor="end" class="micro tfaint">github.com/Serrowxd/Galdr</text>
+</g>
+<g class="tfaint" font-size="8.5px" font-style="italic">
+  <text x="44" y="180">the sigil was drawn</text>
+  <text x="44" y="193">before the intention</text>
+  <text x="44" y="206">was named. will moves</text>
+  <text x="44" y="219">through probability</text>
+  <text x="44" y="232">like a current — the</text>
+  <text x="44" y="245">outcome already set</text>
+  <text x="44" y="258">where the eye cannot</text>
+  <text x="44" y="271">reach.</text>
+</g>
+<g class="tsoft" font-size="11px">
+  <text x="690" y="500">Ψ &#8801; ∮ will · d(prob)</text>
+  <text x="690" y="520" class="tfaint" font-size="9px">field of intent, closed path</text>
+  <text x="690" y="548">φ = 1.6180339…</text>
+  <text x="690" y="568" class="tfaint" font-size="9px">ratio latent in the form</text>
+  <text x="690" y="596" class="tred">as above ∴ so below</text>
+</g>
+<g>
+  <line x1="120" y1="612" x2="600" y2="612" class="faint hair dash"/>
+  <text x="120" y="600" class="micro tfaint">TRANSMUTATION SEQUENCE — 3 STATES</text>
+  <g filter="url(#pencil)" class="ink nofill">
+    <circle cx="180" cy="664" r="26" class="thin"/>
+    <path d="M180,638 L180,690 M154,664 L206,664" class="hair"/>
+    <circle cx="180" cy="664" r="5" fill="var(--ink)"/>
+    <circle cx="330" cy="664" r="26" class="thin"/>
+    <path d="M330,638 L330,690 M304,664 L356,664 M312,646 L348,682 M348,646 L312,682" class="hair"/>
+    <circle cx="480" cy="664" r="26" class="thin"/>
+    <circle cx="480" cy="664" r="14" class="hair"/>
+    <path d="M480,638 L480,690 M454,664 L506,664 M462,646 L498,682 M498,646 L462,682" class="hair"/>
+  </g>
+  <circle cx="480" cy="664" r="4.5" fill="var(--red)"/>
+  <path d="M212,664 L300,664" class="nofill soft hair" marker-end="url(#ar)"/>
+  <path d="M362,664 L450,664" class="nofill soft hair" marker-end="url(#ar)"/>
+  <text x="180" y="712" text-anchor="middle" class="num tsoft">NIGREDO</text>
+  <text x="330" y="712" text-anchor="middle" class="num tsoft">ALBEDO</text>
+  <text x="480" y="712" text-anchor="middle" class="num tred">RUBEDO</text>
+  <text x="560" y="668" class="anno tfaint">prima materia →</text>
+  <text x="560" y="681" class="anno tfaint">refined will</text>
+</g>
+<g transform="translate(786,648)">
+  <rect x="-22" y="-22" width="44" height="44" class="nofill ink hair"/>
+  <path d="M-12,-12 L12,-12 L-12,12 L12,12" class="nofill" stroke="var(--red)" stroke-width="1.6"/>
+  <text x="0" y="36" text-anchor="middle" class="micro tfaint">SIGIL · Z</text>
+</g>
+<text x="450" y="726" text-anchor="middle" class="tsoft" font-size="11px" letter-spacing="3px">∴ &#160; SOLVE ET COAGULA &#160;·&#160; ONE FORGE &#160;·&#160; MANY FIRES &#160; ∴</text>
+</svg>
