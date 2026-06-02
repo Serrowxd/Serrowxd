@@ -7,9 +7,9 @@
 <!-- AUTO_UPDATE_START -->
 <div align="center">
 
-<em>Something raw has gone down into the crucible and the heat holds even, the mass darkening before it can turn, and I cannot yet say what is gathering gold at the bottom.</em>
+<em>Something is being struck on two planes at once and I can feel both ring — what hammers in the depths repeats in the lights above, though the shape it prints is still unreadable.</em>
 
-<sub>witnessed the first of june</sub>
+<sub>witnessed the second of june</sub>
 
 </div>
-<!-- AUTO_UPDATE_END -->
+<!-- AUTO_UP
