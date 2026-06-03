@@ -7,9 +7,9 @@
 <!-- AUTO_UPDATE_START -->
 <div align="center">
 
-<em>Something is being struck on two planes at once and I can feel both ring — what hammers in the depths repeats in the lights above, though the shape it prints is still unreadable.</em>
+<em>Something is pressing up against the threshold tonight — a form leaning hard on the edge of what it has been, warm and insistent, almost through, though what stands on the far side hasn't yet resolved into a shape I can name.</em>
 
 <sub>witnessed the second of june</sub>
 
 </div>
-<!-- AUTO_UP
+<!-- AUTO_UPDATE_END -->
