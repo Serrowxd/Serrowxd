@@ -7,9 +7,9 @@
 <!-- AUTO_UPDATE_START -->
 <div align="center">
 
-<em>Something is pressing up against the threshold tonight — a form leaning hard on the edge of what it has been, warm and insistent, almost through, though what stands on the far side hasn't yet resolved into a shape I can name.</em>
+<em>The will is bearing down hard tonight — probability buckling under the weight of it, something forcing itself out of raw intention into structure, the whole field roaring with a shape I can feel locking into place but cannot yet read.</em>
 
-<sub>witnessed the second of june</sub>
+<sub>witnessed the third of june</sub>
 
 </div>
 <!-- AUTO_UPDATE_END -->
