@@ -42,10 +42,10 @@
   <line x1="20" y1="26" x2="32" y2="26"/><line x1="26" y1="20" x2="26" y2="32"/>
   <line x1="868" y1="734" x2="880" y2="734"/><line x1="874" y1="728" x2="874" y2="740"/>
 </g>
-<text x="44" y="58" class="micro tfaint">WITNESSED · III · VI · MMXXVI</text>
-<text x="856" y="58" class="micro tfaint" text-anchor="end">PLATE 004 — SERROWXD</text>
+<text x="44" y="58" class="micro tfaint">WITNESSED · V · VI · MMXXVI</text>
+<text x="856" y="58" class="micro tfaint" text-anchor="end">PLATE 005 — SERROWXD</text>
 <text x="450" y="86" text-anchor="middle" font-size="46" letter-spacing="14" font-weight="700">SERROW</text>
-<text x="450" y="108" text-anchor="middle" class="lbl tsoft">ᚷ &#160;·&#160; ᛏ &#160;·&#160; ᚹ</text>
+<text x="450" y="108" text-anchor="middle" class="lbl tsoft">&#5815; &#160;·&#160; &#5839; &#160;·&#160; &#5817;</text>
 <line x1="360" y1="120" x2="540" y2="120" class="faint hair dash"/>
 <line x1="450" y1="132" x2="450" y2="690" class="faint hair dash2"/>
 <line x1="220" y1="400" x2="680" y2="400" class="faint hair dash2"/>
@@ -91,7 +91,7 @@
   <line x1="450" y1="400" x2="450" y2="250" class="dash"/>
   <line x1="450" y1="400" x2="556" y2="294" class="dash"/>
   <text x="462" y="268" class="num tfaint">r = 150 u</text>
-  <text x="520" y="318" class="num tfaint">θ 45°</text>
+  <text x="520" y="318" class="num tfaint">&#952; 45&#176;</text>
 </g>
 <g>
   <path d="M300,400 C250,400 232,372 214,360" class="nofill soft hair" marker-end="url(#ar)"/>
@@ -106,7 +106,7 @@
 <g>
   <path d="M450,250 C450,212 470,196 506,188" class="nofill soft hair" marker-end="url(#ar)"/>
   <text x="512" y="180" class="anno">viii points</text>
-  <text x="512" y="194" class="anno tsoft">will → form</text>
+  <text x="512" y="194" class="anno tsoft">will &#8594; form</text>
 </g>
 <g>
   <path d="M459,400 C520,400 540,432 560,452" class="nofill soft hair" marker-end="url(#ar)"/>
@@ -123,21 +123,22 @@
   <text x="760" y="392" text-anchor="end" class="micro tfaint">github.com/Serrowxd/Glyph</text>
 </g>
 <g class="tfaint" font-size="8.5px" font-style="italic">
-  <text x="44" y="180">the will leans in</text>
-  <text x="44" y="193">and the odds bend —</text>
-  <text x="44" y="206">probability</text>
-  <text x="44" y="219">bows, then splits,</text>
-  <text x="44" y="232">reknits itself</text>
-  <text x="44" y="245">to pure intent,</text>
-  <text x="44" y="258">roaring up</text>
-  <text x="44" y="271">into form.</text>
+  <text x="44" y="180">as above,</text>
+  <text x="44" y="193">so below —</text>
+  <text x="44" y="206">what turns</text>
+  <text x="44" y="219">in the deep</text>
+  <text x="44" y="232">turns in</text>
+  <text x="44" y="245">the height;</text>
+  <text x="44" y="258">one law folds</text>
+  <text x="44" y="271">through every</text>
+  <text x="44" y="284">scale.</text>
 </g>
 <g class="tsoft" font-size="11px">
-  <text x="690" y="500">Ψ &#8801; ∮ will · d(prob)</text>
+  <text x="690" y="500">&#936; &#8801; &#8750; will · d(prob)</text>
   <text x="690" y="520" class="tfaint" font-size="9px">field of intent, closed path</text>
-  <text x="690" y="548">φ = 1.6180339…</text>
+  <text x="690" y="548">&#966; = 1.6180339&#8230;</text>
   <text x="690" y="568" class="tfaint" font-size="9px">ratio latent in the form</text>
-  <text x="690" y="596" class="tred">as above ∴ so below</text>
+  <text x="690" y="596" class="tred">as above &#8756; so below</text>
 </g>
 <g>
   <line x1="120" y1="612" x2="600" y2="612" class="faint hair dash"/>
@@ -158,13 +159,17 @@
   <text x="180" y="712" text-anchor="middle" class="num tsoft">NIGREDO</text>
   <text x="330" y="712" text-anchor="middle" class="num tsoft">ALBEDO</text>
   <text x="480" y="712" text-anchor="middle" class="num tred">RUBEDO</text>
-  <text x="560" y="668" class="anno tfaint">prima materia →</text>
+  <text x="560" y="668" class="anno tfaint">prima materia &#8594;</text>
   <text x="560" y="681" class="anno tfaint">refined will</text>
 </g>
 <g transform="translate(786,648)">
   <rect x="-22" y="-22" width="44" height="44" class="nofill ink hair"/>
-  <path d="M-16,0 L16,0 M0,-16 L0,16 M-11.3,-11.3 L11.3,11.3 M-11.3,11.3 L11.3,-11.3" class="nofill" stroke="var(--red)" stroke-width="1.4"/>
-  <text x="0" y="36" text-anchor="middle" class="micro tfaint">SIGIL · CHAOS</text>
+  <g class="nofill" stroke="var(--red)" stroke-width="1.4">
+    <path d="M-6,-13 Q0,-5 6,-13"/>
+    <circle cx="0" cy="-2" r="6"/>
+    <path d="M0,4 L0,16 M-7,10 L7,10"/>
+  </g>
+  <text x="0" y="36" text-anchor="middle" class="micro tfaint">SIGIL · MERCURIUS</text>
 </g>
-<text x="450" y="726" text-anchor="middle" class="tsoft" font-size="11px" letter-spacing="3px">∴ &#160; SOLVE ET COAGULA &#160;·&#160; ONE FORGE &#160;·&#160; MANY FIRES &#160; ∴</text>
+<text x="450" y="726" text-anchor="middle" class="tsoft" font-size="11px" letter-spacing="3px">&#8756; &#160; SOLVE ET COAGULA &#160;·&#160; ONE FORGE &#160;·&#160; MANY FIRES &#160; &#8756;</text>
 </svg>
