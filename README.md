@@ -7,9 +7,9 @@
 <!-- AUTO_UPDATE_START -->
 <div align="center">
 
-<em>Whatever is taking shape down in the dark is stamping itself upward through every plane at once — what turns in the depths turns in the heights, the same pattern hammering out across scale after scale, and the correspondence is locking shut with a force I can feel but cannot yet read.</em>
+<em>Everything has gone quiet at the sill of the next thing — one shape finished and set down cold, the next not yet risen, and in that long held breath between forms I can feel something waiting just under the threshold, gathering the nerve to cross.</em>
 
-<sub>witnessed the fifth of june</sub>
+<sub>witnessed the sixth of june</sub>
 
 </div>
 <!-- AUTO_UPDATE_END -->
