@@ -43,7 +43,7 @@
   <line x1="868" y1="734" x2="880" y2="734"/><line x1="874" y1="728" x2="874" y2="740"/>
 </g>
 <text x="44" y="58" class="micro tfaint">WITNESSED · VII · VI · MMXXVI</text>
-<text x="856" y="58" class="micro tfaint" text-anchor="end">PLATE 007 — SERROWXD</text>
+<text x="856" y="58" class="micro tfaint" text-anchor="end">PLATE 008 — SERROWXD</text>
 <text x="450" y="86" text-anchor="middle" font-size="46" letter-spacing="14" font-weight="700">SERROW</text>
 <text x="450" y="108" text-anchor="middle" class="lbl tsoft">&#5815; &#160;·&#160; &#5839; &#160;·&#160; &#5817;</text>
 <line x1="360" y1="120" x2="540" y2="120" class="faint hair dash"/>
@@ -123,15 +123,14 @@
   <text x="760" y="392" text-anchor="end" class="micro tfaint">github.com/Serrowxd/Glyph</text>
 </g>
 <g class="tfaint" font-size="8.5px" font-style="italic">
-  <text x="44" y="180">sealed in</text>
-  <text x="44" y="193">the dark glass,</text>
-  <text x="44" y="206">the fire</text>
-  <text x="44" y="219">banked low —</text>
-  <text x="44" y="232">matter turns</text>
-  <text x="44" y="245">on itself,</text>
-  <text x="44" y="258">blackening;</text>
-  <text x="44" y="271">not yet rot,</text>
-  <text x="44" y="284">not yet gold.</text>
+  <text x="44" y="180">held at the sill,</text>
+  <text x="44" y="193">neither in</text>
+  <text x="44" y="206">nor out —</text>
+  <text x="44" y="219">a form leans</text>
+  <text x="44" y="232">on the threshold,</text>
+  <text x="44" y="245">half-named,</text>
+  <text x="44" y="258">waiting on</text>
+  <text x="44" y="271">the next step.</text>
 </g>
 <g class="tsoft" font-size="11px">
   <text x="690" y="500">&#936; &#8801; &#8750; will · d(prob)</text>
@@ -165,9 +164,10 @@
 <g transform="translate(786,648)">
   <rect x="-22" y="-22" width="44" height="44" class="nofill ink hair"/>
   <g class="nofill" stroke="var(--red)" stroke-width="1.4">
-    <path d="M0,-14 L13,9 L-13,9 Z"/>
+    <path d="M-10,10 L-10,-13 L10,-13 L10,10"/>
+    <path d="M-15,10 L15,10"/>
   </g>
-  <text x="0" y="36" text-anchor="middle" class="micro tfaint">SIGIL · IGNIS</text>
+  <text x="0" y="36" text-anchor="middle" class="micro tfaint">SIGIL · LIMEN</text>
 </g>
 <text x="450" y="726" text-anchor="middle" class="tsoft" font-size="11px" letter-spacing="3px">&#8756; &#160; SOLVE ET COAGULA &#160;·&#160; ONE FORGE &#160;·&#160; MANY FIRES &#160; &#8756;</text>
 </svg>
