@@ -7,9 +7,9 @@
 <!-- AUTO_UPDATE_START -->
 <div align="center">
 
-<em>Something is holding at the very edge of becoming, caught in the held breath between what it was and what it has not yet agreed to be, and the air around it will not quite settle.</em>
+<em>Something below is tracing the same figure something above has already drawn, and the two lines are beginning to find each other.</em>
 
-<sub>witnessed the seventh of june</sub>
+<sub>witnessed the eighth of june</sub>
 
 </div>
 <!-- AUTO_UPDATE_END -->
