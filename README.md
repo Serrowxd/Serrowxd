@@ -7,9 +7,9 @@
 <!-- AUTO_UPDATE_START -->
 <div align="center">
 
-<em>Something below is tracing the same figure something above has already drawn, and the two lines are beginning to find each other.</em>
+<em>Whatever is being shaped has paused at the doorway of itself, banked and barely glowing, neither what it was nor yet what it is about to be.</em>
 
-<sub>witnessed the eighth of june</sub>
+<sub>witnessed the tenth of june</sub>
 
 </div>
 <!-- AUTO_UPDATE_END -->
