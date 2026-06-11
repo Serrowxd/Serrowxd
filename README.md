@@ -7,7 +7,7 @@
 <!-- AUTO_UPDATE_START -->
 <div align="center">
 
-<em>Whatever is being shaped has paused at the doorway of itself, banked and barely glowing, neither what it was nor yet what it is about to be.</em>
+<em>The crucible has run loud since morning, black breaking into white and white leaning toward red, and whatever is gaining weight at the center of the heat will not be poured until the fire has burned away everything it was.</em>
 
 <sub>witnessed the tenth of june</sub>
 
