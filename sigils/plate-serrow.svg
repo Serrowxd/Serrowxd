@@ -42,8 +42,8 @@
   <line x1="20" y1="26" x2="32" y2="26"/><line x1="26" y1="20" x2="26" y2="32"/>
   <line x1="868" y1="734" x2="880" y2="734"/><line x1="874" y1="728" x2="874" y2="740"/>
 </g>
-<text x="44" y="58" class="micro tfaint">WITNESSED · X · VI · MMXXVI</text>
-<text x="856" y="58" class="micro tfaint" text-anchor="end">PLATE 011 — SERROWXD</text>
+<text x="44" y="58" class="micro tfaint">WITNESSED · XI · VI · MMXXVI</text>
+<text x="856" y="58" class="micro tfaint" text-anchor="end">PLATE 012 — SERROWXD</text>
 <text x="450" y="86" text-anchor="middle" font-size="46" letter-spacing="14" font-weight="700">SERROW</text>
 <text x="450" y="108" text-anchor="middle" class="lbl tsoft">&#5815; &#160;·&#160; &#5839; &#160;·&#160; &#5817;</text>
 <line x1="360" y1="120" x2="540" y2="120" class="faint hair dash"/>
@@ -123,14 +123,14 @@
   <text x="760" y="392" text-anchor="end" class="micro tfaint">github.com/Serrowxd/Glyph</text>
 </g>
 <g class="tfaint" font-size="8.5px" font-style="italic">
-  <text x="44" y="180">black matter</text>
-  <text x="44" y="193">breaks white,</text>
-  <text x="44" y="206">white runs red —</text>
-  <text x="44" y="219">the furnace keeps</text>
-  <text x="44" y="232">what the fire</text>
-  <text x="44" y="245">cannot say,</text>
-  <text x="44" y="258">gold gathering</text>
-  <text x="44" y="271">under the slag.</text>
+  <text x="44" y="180">what turns above</text>
+  <text x="44" y="193">turns here also —</text>
+  <text x="44" y="206">the small wheel</text>
+  <text x="44" y="219">keeps the hour</text>
+  <text x="44" y="232">of the great one,</text>
+  <text x="44" y="245">one law, two faces,</text>
+  <text x="44" y="258">the same hand</text>
+  <text x="44" y="271">drawing both.</text>
 </g>
 <g class="tsoft" font-size="11px">
   <text x="690" y="500">&#936; &#8801; &#8750; will · d(prob)</text>
@@ -164,10 +164,11 @@
 <g transform="translate(786,648)">
   <rect x="-22" y="-22" width="44" height="44" class="nofill ink hair"/>
   <g class="nofill" stroke="var(--red)" stroke-width="1.4">
-    <path d="M0,-15 L14,11 L-14,11 Z"/>
-    <path d="M-8,2 L8,2"/>
+    <path d="M-7,-15 A7,7 0 0 0 7,-15"/>
+    <circle cx="0" cy="-1" r="7"/>
+    <path d="M0,6 L0,16 M-5,11 L5,11"/>
   </g>
-  <text x="0" y="36" text-anchor="middle" class="micro tfaint">SIGIL · IGNIS</text>
+  <text x="0" y="36" text-anchor="middle" class="micro tfaint">SIGIL · MERCURIUS</text>
 </g>
 <text x="450" y="726" text-anchor="middle" class="tsoft" font-size="11px" letter-spacing="3px">&#8756; &#160; SOLVE ET COAGULA &#160;·&#160; ONE FORGE &#160;·&#160; MANY FIRES &#160; &#8756;</text>
 </svg>

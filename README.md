@@ -7,9 +7,9 @@
 <!-- AUTO_UPDATE_START -->
 <div align="center">
 
-<em>The crucible has run loud since morning, black breaking into white and white leaning toward red, and whatever is gaining weight at the center of the heat will not be poured until the fire has burned away everything it was.</em>
+<em>All day the small wheel has kept the hour of a vaster one turning somewhere overhead, every stroke laid down at the bench answering a stroke already drawn above it, and the two are closing toward the same figure with a force that hums in the floor.</em>
 
-<sub>witnessed the tenth of june</sub>
+<sub>witnessed the eleventh of june</sub>
 
 </div>
 <!-- AUTO_UPDATE_END -->
