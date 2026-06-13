@@ -7,9 +7,9 @@
 <!-- AUTO_UPDATE_START -->
 <div align="center">
 
-<em>All day the small wheel has kept the hour of a vaster one turning somewhere overhead, every stroke laid down at the bench answering a stroke already drawn above it, and the two are closing toward the same figure with a force that hums in the floor.</em>
+<em>At the still center a process continues, pressing outward in gradual emanations — each layer crystallizing from the formless before it, the pleroma disclosing itself one coherence at a time.</em>
 
-<sub>witnessed the eleventh of june</sub>
+<sub>witnessed the thirteenth of june</sub>
 
 </div>
 <!-- AUTO_UPDATE_END -->
