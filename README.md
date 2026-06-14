@@ -7,9 +7,9 @@
 <!-- AUTO_UPDATE_START -->
 <div align="center">
 
-<em>At the still center a process continues, pressing outward in gradual emanations — each layer crystallizing from the formless before it, the pleroma disclosing itself one coherence at a time.</em>
+<em>All night the will has been bearing down on raw probability, and you can feel it roaring now — chance buckling, hardening, some unspeakable shape forcing itself into being where moments ago there was only churn.</em>
 
-<sub>witnessed the thirteenth of june</sub>
+<sub>witnessed the fourteenth of june</sub>
 
 </div>
 <!-- AUTO_UPDATE_END -->
