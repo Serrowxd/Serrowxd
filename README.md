@@ -7,9 +7,9 @@
 <!-- AUTO_UPDATE_START -->
 <div align="center">
 
-<em>All night the will has been bearing down on raw probability, and you can feel it roaring now — chance buckling, hardening, some unspeakable shape forcing itself into being where moments ago there was only churn.</em>
+<em>Everything waits at the threshold of its own becoming tonight, held in the hush between one form and the next, the boundary humming low, nothing yet willing to cross.</em>
 
-<sub>witnessed the fourteenth of june</sub>
+<sub>witnessed the fifteenth of june</sub>
 
 </div>
 <!-- AUTO_UPDATE_END -->
