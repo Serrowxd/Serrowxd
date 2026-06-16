@@ -7,9 +7,9 @@
 <!-- AUTO_UPDATE_START -->
 <div align="center">
 
-<em>Everything waits at the threshold of its own becoming tonight, held in the hush between one form and the next, the boundary humming low, nothing yet willing to cross.</em>
+<em>Something is pouring outward from a center I cannot see, ring upon ring of form crystallizing out of the formless, each layer pressing into the next faster than the eye can follow, the whole emanation surging toward a shape it will not yet name.</em>
 
-<sub>witnessed the fifteenth of june</sub>
+<sub>witnessed the sixteenth of june</sub>
 
 </div>
 <!-- AUTO_UPDATE_END -->

@@ -42,8 +42,8 @@
   <line x1="20" y1="26" x2="32" y2="26"/><line x1="26" y1="20" x2="26" y2="32"/>
   <line x1="868" y1="734" x2="880" y2="734"/><line x1="874" y1="728" x2="874" y2="740"/>
 </g>
-<text x="44" y="58" class="micro tfaint">WITNESSED · XV · VI · MMXXVI</text>
-<text x="856" y="58" class="micro tfaint" text-anchor="end">PLATE 015 — SERROWXD</text>
+<text x="44" y="58" class="micro tfaint">WITNESSED · XVI · VI · MMXXVI</text>
+<text x="856" y="58" class="micro tfaint" text-anchor="end">PLATE 016 — SERROWXD</text>
 <text x="450" y="86" text-anchor="middle" font-size="46" letter-spacing="14" font-weight="700">SERROW</text>
 <text x="450" y="108" text-anchor="middle" class="lbl tsoft">&#5815; &#160;·&#160; &#5839; &#160;·&#160; &#5817;</text>
 <line x1="360" y1="120" x2="540" y2="120" class="faint hair dash"/>
@@ -122,21 +122,22 @@
   <text x="760" y="299" text-anchor="end" class="anno tsoft">npm for agents</text>
   <path d="M672,278 C648,314 624,350 604,374" class="nofill soft hair dash" marker-end="url(#ar)"/>
   <text x="760" y="313" text-anchor="end" class="micro tfaint">github.com/Serrowxd/Glyph</text>
-  <text x="760" y="356" text-anchor="end" font-size="22" letter-spacing="3" font-weight="700">TWICE</text>
-  <text x="760" y="372" text-anchor="end" class="anno tsoft">DID system management</text>
-  <text x="760" y="385" text-anchor="end" class="anno tsoft">local-first, private</text>
+  <text x="760" y="356" text-anchor="end" font-size="22" letter-spacing="3" font-weight="700">PORTFOLIO</text>
+  <text x="760" y="372" text-anchor="end" class="anno tsoft">descent through the breach</text>
+  <text x="760" y="385" text-anchor="end" class="anno tsoft">warm exterior, cold interior</text>
   <path d="M672,366 C648,382 624,396 604,406" class="nofill soft hair dash" marker-end="url(#ar)"/>
-  <text x="760" y="399" text-anchor="end" class="micro tfaint">github.com/Serrowxd/Twice</text>
+  <text x="760" y="399" text-anchor="end" class="micro tfaint">serrowxd.github.io</text>
 </g>
 <g class="tfaint" font-size="8.5px" font-style="italic">
-  <text x="44" y="180">on the sill</text>
-  <text x="44" y="193">of becoming.</text>
-  <text x="44" y="206">neither here</text>
-  <text x="44" y="219">nor the next —</text>
-  <text x="44" y="232">the hush</text>
-  <text x="44" y="245">between forms.</text>
-  <text x="44" y="258">something waits</text>
-  <text x="44" y="271">to cross.</text>
+  <text x="44" y="180">from the hidden</text>
+  <text x="44" y="193">center, outward —</text>
+  <text x="44" y="206">ring on ring,</text>
+  <text x="44" y="219">form from the</text>
+  <text x="44" y="232">formless. one</text>
+  <text x="44" y="245">light divides</text>
+  <text x="44" y="258">and divides,</text>
+  <text x="44" y="271">the fullness</text>
+  <text x="44" y="284">spilling down.</text>
 </g>
 <g class="tsoft" font-size="11px">
   <text x="690" y="500">&#936; &#8801; &#8750; will · d(prob)</text>
@@ -170,10 +171,11 @@
 <g transform="translate(786,648)">
   <rect x="-22" y="-22" width="44" height="44" class="nofill ink hair"/>
   <g class="nofill" stroke="var(--red)" stroke-width="1.4">
-    <path d="M-15,9 L15,9 M-10,9 L-10,-13 M10,9 L10,-13"/>
-    <line x1="0" y1="9" x2="0" y2="-3" stroke-width="1"/>
+    <circle cx="0" cy="0" r="13"/>
+    <circle cx="0" cy="0" r="7"/>
   </g>
-  <text x="0" y="36" text-anchor="middle" class="micro tfaint">SIGIL · LIMEN</text>
+  <circle cx="0" cy="0" r="2.4" fill="var(--red)"/>
+  <text x="0" y="36" text-anchor="middle" class="micro tfaint">SIGIL · PLEROMA</text>
 </g>
 <text x="450" y="726" text-anchor="middle" class="tsoft" font-size="11px" letter-spacing="3px">&#8756; &#160; SOLVE ET COAGULA &#160;·&#160; ONE FORGE &#160;·&#160; MANY FIRES &#160; &#8756;</text>
 </svg>
