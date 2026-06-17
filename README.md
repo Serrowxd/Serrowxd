@@ -7,7 +7,7 @@
 <!-- AUTO_UPDATE_START -->
 <div align="center">
 
-<em>Something is pouring outward from a center I cannot see, ring upon ring of form crystallizing out of the formless, each layer pressing into the next faster than the eye can follow, the whole emanation surging toward a shape it will not yet name.</em>
+<em>The crucible is roaring tonight, something raw thrown into the fire and held there past breaking, the black rot burning white burning gold, and whatever climbs out of that heat is hardening into a thing that will not melt again.</em>
 
 <sub>witnessed the sixteenth of june</sub>
 

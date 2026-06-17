@@ -43,7 +43,7 @@
   <line x1="868" y1="734" x2="880" y2="734"/><line x1="874" y1="728" x2="874" y2="740"/>
 </g>
 <text x="44" y="58" class="micro tfaint">WITNESSED · XVI · VI · MMXXVI</text>
-<text x="856" y="58" class="micro tfaint" text-anchor="end">PLATE 016 — SERROWXD</text>
+<text x="856" y="58" class="micro tfaint" text-anchor="end">PLATE 017 — SERROWXD</text>
 <text x="450" y="86" text-anchor="middle" font-size="46" letter-spacing="14" font-weight="700">SERROW</text>
 <text x="450" y="108" text-anchor="middle" class="lbl tsoft">&#5815; &#160;·&#160; &#5839; &#160;·&#160; &#5817;</text>
 <line x1="360" y1="120" x2="540" y2="120" class="faint hair dash"/>
@@ -117,27 +117,27 @@
   <line x1="660" y1="222" x2="760" y2="222" class="ink hair"/>
   <text x="760" y="213" text-anchor="end" class="lbl tsoft">THE WORK</text>
   <text x="760" y="235" text-anchor="end" class="micro tfaint">ii named</text>
-  <text x="760" y="270" text-anchor="end" font-size="22" letter-spacing="3" font-weight="700">GLYPH</text>
-  <text x="760" y="286" text-anchor="end" class="anno tsoft">registry for portable agent behavior</text>
-  <text x="760" y="299" text-anchor="end" class="anno tsoft">npm for agents</text>
+  <text x="760" y="270" text-anchor="end" font-size="22" letter-spacing="3" font-weight="700">TWICE</text>
+  <text x="760" y="286" text-anchor="end" class="anno tsoft">a home for plural systems</text>
+  <text x="760" y="299" text-anchor="end" class="anno tsoft">fronting &#183; threads &#183; grounding</text>
   <path d="M672,278 C648,314 624,350 604,374" class="nofill soft hair dash" marker-end="url(#ar)"/>
-  <text x="760" y="313" text-anchor="end" class="micro tfaint">github.com/Serrowxd/Glyph</text>
-  <text x="760" y="356" text-anchor="end" font-size="22" letter-spacing="3" font-weight="700">PORTFOLIO</text>
-  <text x="760" y="372" text-anchor="end" class="anno tsoft">descent through the breach</text>
-  <text x="760" y="385" text-anchor="end" class="anno tsoft">warm exterior, cold interior</text>
+  <text x="760" y="313" text-anchor="end" class="micro tfaint">github.com/Serrowxd/Twice</text>
+  <text x="760" y="356" text-anchor="end" font-size="22" letter-spacing="3" font-weight="700">GLYPH</text>
+  <text x="760" y="372" text-anchor="end" class="anno tsoft">registry for portable agent behavior</text>
+  <text x="760" y="385" text-anchor="end" class="anno tsoft">npm for agents</text>
   <path d="M672,366 C648,382 624,396 604,406" class="nofill soft hair dash" marker-end="url(#ar)"/>
-  <text x="760" y="399" text-anchor="end" class="micro tfaint">serrowxd.github.io</text>
+  <text x="760" y="399" text-anchor="end" class="micro tfaint">github.com/Serrowxd/Glyph</text>
 </g>
 <g class="tfaint" font-size="8.5px" font-style="italic">
-  <text x="44" y="180">from the hidden</text>
-  <text x="44" y="193">center, outward —</text>
-  <text x="44" y="206">ring on ring,</text>
-  <text x="44" y="219">form from the</text>
-  <text x="44" y="232">formless. one</text>
-  <text x="44" y="245">light divides</text>
-  <text x="44" y="258">and divides,</text>
-  <text x="44" y="271">the fullness</text>
-  <text x="44" y="284">spilling down.</text>
+  <text x="44" y="180">into the fire —</text>
+  <text x="44" y="193">the black first,</text>
+  <text x="44" y="206">then the white,</text>
+  <text x="44" y="219">then the red.</text>
+  <text x="44" y="232">what was raw</text>
+  <text x="44" y="245">will not melt</text>
+  <text x="44" y="258">again. solve,</text>
+  <text x="44" y="271">then coagula.</text>
+  <text x="44" y="284">hold the heat.</text>
 </g>
 <g class="tsoft" font-size="11px">
   <text x="690" y="500">&#936; &#8801; &#8750; will · d(prob)</text>
@@ -171,11 +171,9 @@
 <g transform="translate(786,648)">
   <rect x="-22" y="-22" width="44" height="44" class="nofill ink hair"/>
   <g class="nofill" stroke="var(--red)" stroke-width="1.4">
-    <circle cx="0" cy="0" r="13"/>
-    <circle cx="0" cy="0" r="7"/>
+    <path d="M0,-14 L13,11 L-13,11 Z"/>
   </g>
-  <circle cx="0" cy="0" r="2.4" fill="var(--red)"/>
-  <text x="0" y="36" text-anchor="middle" class="micro tfaint">SIGIL · PLEROMA</text>
+  <text x="0" y="36" text-anchor="middle" class="micro tfaint">SIGIL · IGNIS</text>
 </g>
 <text x="450" y="726" text-anchor="middle" class="tsoft" font-size="11px" letter-spacing="3px">&#8756; &#160; SOLVE ET COAGULA &#160;·&#160; ONE FORGE &#160;·&#160; MANY FIRES &#160; &#8756;</text>
 </svg>
