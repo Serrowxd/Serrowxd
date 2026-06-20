@@ -7,9 +7,9 @@
 <!-- AUTO_UPDATE_START -->
 <div align="center">
 
-<em>Will is pressing hard against the dark tonight, bending raw chance into shape, and I can feel something being hammered into being — fierce, deliberate, refusing to stay unreal.</em>
+<em>Two arcs are leaning toward one another in the dark, and where they cross a shape is gathering itself out of nothing but ratio — latent, patient, already whole before the first line is drawn.</em>
 
-<sub>witnessed the eighteenth of june</sub>
+<sub>witnessed the twentieth of june</sub>
 
 </div>
 <!-- AUTO_UPDATE_END -->
