@@ -43,7 +43,7 @@
   <line x1="868" y1="734" x2="880" y2="734"/><line x1="874" y1="728" x2="874" y2="740"/>
 </g>
 <text x="44" y="58" class="micro tfaint">WITNESSED · XX · VI · MMXXVI</text>
-<text x="856" y="58" class="micro tfaint" text-anchor="end">PLATE 020 — SERROWXD</text>
+<text x="856" y="58" class="micro tfaint" text-anchor="end">PLATE 021 — SERROWXD</text>
 <text x="450" y="86" text-anchor="middle" font-size="46" letter-spacing="14" font-weight="700">SERROW</text>
 <text x="450" y="108" text-anchor="middle" class="lbl tsoft">&#5815; &#160;·&#160; &#5839; &#160;·&#160; &#5817;</text>
 <line x1="360" y1="120" x2="540" y2="120" class="faint hair dash"/>
@@ -129,14 +129,15 @@
   <text x="760" y="399" text-anchor="end" class="micro tfaint">github.com/Serrowxd/Glyph</text>
 </g>
 <g class="tfaint" font-size="8.5px" font-style="italic">
-  <text x="44" y="180">two arcs lean,</text>
-  <text x="44" y="193">and where they</text>
-  <text x="44" y="206">cross, a form</text>
-  <text x="44" y="219">waits in the</text>
-  <text x="44" y="232">ratio — already</text>
-  <text x="44" y="245">whole, only</text>
-  <text x="44" y="258">now being</text>
-  <text x="44" y="271">drawn out.</text>
+  <text x="44" y="180">will leans hard</text>
+  <text x="44" y="193">on the odds,</text>
+  <text x="44" y="206">and the odds</text>
+  <text x="44" y="219">lean back.</text>
+  <text x="44" y="232">a wanting held</text>
+  <text x="44" y="245">past reason</text>
+  <text x="44" y="258">thickens into</text>
+  <text x="44" y="271">a shape — dice</text>
+  <text x="44" y="284">still warm.</text>
 </g>
 <g class="tsoft" font-size="11px">
   <text x="690" y="500">&#936; &#8801; &#8750; will · d(prob)</text>
@@ -170,9 +171,9 @@
 <g transform="translate(786,648)">
   <rect x="-22" y="-22" width="44" height="44" class="nofill ink hair"/>
   <g class="nofill" stroke="var(--red)" stroke-width="1.4">
-    <path d="M-4,-13 A14,14 0 0 1 -4,13 M4,-13 A14,14 0 0 0 4,13"/>
+    <path d="M0,-16 L0,16 M-16,0 L16,0 M-11,-11 L11,11 M11,-11 L-11,11"/>
   </g>
-  <text x="0" y="36" text-anchor="middle" class="micro tfaint">SIGIL · VESICA</text>
+  <text x="0" y="36" text-anchor="middle" class="micro tfaint">SIGIL · CHAOS</text>
 </g>
 <text x="450" y="726" text-anchor="middle" class="tsoft" font-size="11px" letter-spacing="3px">&#8756; &#160; SOLVE ET COAGULA &#160;·&#160; ONE FORGE &#160;·&#160; MANY FIRES &#160; &#8756;</text>
 </svg>

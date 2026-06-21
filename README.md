@@ -7,7 +7,7 @@
 <!-- AUTO_UPDATE_START -->
 <div align="center">
 
-<em>Two arcs are leaning toward one another in the dark, and where they cross a shape is gathering itself out of nothing but ratio — latent, patient, already whole before the first line is drawn.</em>
+<em>Something is being willed into shape behind the veil — the air pulls taut, probability bending hard toward one fierce, unspoken intention, and you can feel the heat of it long before any edge resolves into a name.</em>
 
 <sub>witnessed the twentieth of june</sub>
 
