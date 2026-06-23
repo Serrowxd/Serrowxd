@@ -7,9 +7,9 @@
 <!-- AUTO_UPDATE_START -->
 <div align="center">
 
-<em>Something is being willed into shape behind the veil — the air pulls taut, probability bending hard toward one fierce, unspoken intention, and you can feel the heat of it long before any edge resolves into a name.</em>
+<em>Something waits at the edge of becoming, held in the long hush before a form decides what it will be — you can feel the threshold thinning, though nothing has yet stepped across.</em>
 
-<sub>witnessed the twentieth of june</sub>
+<sub>witnessed the twenty-second of june</sub>
 
 </div>
 <!-- AUTO_UPDATE_END -->
