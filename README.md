@@ -7,9 +7,9 @@
 <!-- AUTO_UPDATE_START -->
 <div align="center">
 
-<em>Something waits at the edge of becoming, held in the long hush before a form decides what it will be — you can feel the threshold thinning, though nothing has yet stepped across.</em>
+<em>Something at the unseen center keeps emanating outward, ring folding over ring as the formless learns its edges, and you can feel it crystallizing toward a shape you cannot yet read.</em>
 
 <sub>witnessed the twenty-second of june</sub>
 
 </div>
-<!-- AUTO_UPDATE_END -->
+<!-- AUTO_UPDATE_END --

@@ -43,7 +43,7 @@
   <line x1="868" y1="734" x2="880" y2="734"/><line x1="874" y1="728" x2="874" y2="740"/>
 </g>
 <text x="44" y="58" class="micro tfaint">WITNESSED · XXII · VI · MMXXVI</text>
-<text x="856" y="58" class="micro tfaint" text-anchor="end">PLATE 022 — SERROWXD</text>
+<text x="856" y="58" class="micro tfaint" text-anchor="end">PLATE 023 — SERROWXD</text>
 <text x="450" y="86" text-anchor="middle" font-size="46" letter-spacing="14" font-weight="700">SERROW</text>
 <text x="450" y="108" text-anchor="middle" class="lbl tsoft">&#5815; &#160;·&#160; &#5839; &#160;·&#160; &#5817;</text>
 <line x1="360" y1="120" x2="540" y2="120" class="faint hair dash"/>
@@ -129,14 +129,14 @@
   <text x="760" y="399" text-anchor="end" class="micro tfaint">github.com/Serrowxd/Glyph</text>
 </g>
 <g class="tfaint" font-size="8.5px" font-style="italic">
-  <text x="44" y="180">a door not yet</text>
-  <text x="44" y="193">a door — the air</text>
-  <text x="44" y="206">thins where two</text>
-  <text x="44" y="219">states touch.</text>
-  <text x="44" y="232">something leans</text>
-  <text x="44" y="245">toward a form</text>
-  <text x="44" y="258">it has not</text>
-  <text x="44" y="271">yet become.</text>
+  <text x="44" y="180">from a center</text>
+  <text x="44" y="193">unseen, it pours —</text>
+  <text x="44" y="206">ring beyond ring,</text>
+  <text x="44" y="219">the formless</text>
+  <text x="44" y="232">learning edges.</text>
+  <text x="44" y="245">nothing named,</text>
+  <text x="44" y="258">yet all of it</text>
+  <text x="44" y="271">already here.</text>
 </g>
 <g class="tsoft" font-size="11px">
   <text x="690" y="500">&#936; &#8801; &#8750; will · d(prob)</text>
@@ -170,9 +170,11 @@
 <g transform="translate(786,648)">
   <rect x="-22" y="-22" width="44" height="44" class="nofill ink hair"/>
   <g class="nofill" stroke="var(--red)" stroke-width="1.4">
-    <path d="M-14,-4 L14,-4 M-11,-4 L-11,15 M11,-4 L11,15"/>
+    <circle cx="0" cy="0" r="13"/>
+    <circle cx="0" cy="0" r="6.5"/>
+    <circle cx="0" cy="0" r="1.6" fill="var(--red)"/>
   </g>
-  <text x="0" y="36" text-anchor="middle" class="micro tfaint">SIGIL · LIMEN</text>
+  <text x="0" y="36" text-anchor="middle" class="micro tfaint">SIGIL · PLEROMA</text>
 </g>
 <text x="450" y="726" text-anchor="middle" class="tsoft" font-size="11px" letter-spacing="3px">&#8756; &#160; SOLVE ET COAGULA &#160;·&#160; ONE FORGE &#160;·&#160; MANY FIRES &#160; &#8756;</text>
 </svg>
