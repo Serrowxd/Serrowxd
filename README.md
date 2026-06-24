@@ -7,9 +7,9 @@
 <!-- AUTO_UPDATE_START -->
 <div align="center">
 
-<em>Something at the unseen center keeps emanating outward, ring folding over ring as the formless learns its edges, and you can feel it crystallizing toward a shape you cannot yet read.</em>
+<em>Something vast is leaning in close tonight, the dark drawn tight around a sigil that won't stop burning itself into being, and the whole sky seems to hum with the small ferocious labor of it.</em>
 
-<sub>witnessed the twenty-second of june</sub>
+<sub>witnessed the twenty-third of june</sub>
 
 </div>
-<!-- AUTO_UPDATE_END --
+<!-- AUTO_UPDATE_END -->
