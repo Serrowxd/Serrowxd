@@ -124,7 +124,6 @@
   <text x="760" y="391" text-anchor="end" class="micro tfaint">github.com/Stadium-AI</text>
 </g>
 <g class="tfaint" font-size="8.5px" font-style="italic">
-<<<<<<< HEAD
   <text x="44" y="180">the will leans in—</text>
   <text x="44" y="193">probability bends,</text>
   <text x="44" y="206">chance drawn taut,</text>
@@ -133,16 +132,6 @@
   <text x="44" y="245">intent hardening</text>
   <text x="44" y="258">into form—the dark</text>
   <text x="44" y="271">is made to obey.</text>
-=======
-  <text x="44" y="180">into the fire—</text>
-  <text x="44" y="193">the black rot chars,</text>
-  <text x="44" y="206">a white ash lifts,</text>
-  <text x="44" y="219">smoke tears open,</text>
-  <text x="44" y="232">the heat presses,</text>
-  <text x="44" y="245">gold not yet gold,</text>
-  <text x="44" y="258">the red still</text>
-  <text x="44" y="271">unspoken.</text>
->>>>>>> dd9dd3b7fa95fbb479f7c0cba391639177e9851b
 </g>
 <g class="tsoft" font-size="11px">
   <text x="690" y="500">&#936; &#8801; &#8750; will · d(prob)</text>
@@ -176,17 +165,10 @@
 <g transform="translate(786,648)">
   <rect x="-22" y="-22" width="44" height="44" class="nofill ink hair"/>
   <g class="nofill" stroke="var(--red)" stroke-width="1.4">
-<<<<<<< HEAD
     <path d="M0,-16 L0,16 M-16,0 L16,0 M-11.3,-11.3 L11.3,11.3 M11.3,-11.3 L-11.3,11.3"/>
   </g>
   <circle cx="0" cy="0" r="2.5" fill="var(--red)"/>
   <text x="0" y="36" text-anchor="middle" class="micro tfaint">SIGIL · CHAOS</text>
-=======
-    <path d="M0,-15 L13,9 L-13,9 Z"/>
-    <line x1="-7" y1="9" x2="7" y2="9"/>
-  </g>
-  <text x="0" y="36" text-anchor="middle" class="micro tfaint">SIGIL · IGNIS</text>
->>>>>>> dd9dd3b7fa95fbb479f7c0cba391639177e9851b
 </g>
 <text x="450" y="726" text-anchor="middle" class="tsoft" font-size="11px" letter-spacing="3px">&#8756; &#160; SOLVE ET COAGULA &#160;·&#160; ONE FORGE &#160;·&#160; MANY FIRES &#160; &#8756;</text>
 </svg>
