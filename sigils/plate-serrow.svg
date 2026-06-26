@@ -42,8 +42,8 @@
   <line x1="20" y1="26" x2="32" y2="26"/><line x1="26" y1="20" x2="26" y2="32"/>
   <line x1="868" y1="734" x2="880" y2="734"/><line x1="874" y1="728" x2="874" y2="740"/>
 </g>
-<text x="44" y="58" class="micro tfaint">WITNESSED · XXV · VI · MMXXVI</text>
-<text x="856" y="58" class="micro tfaint" text-anchor="end">PLATE 025 — SERROWXD</text>
+<text x="44" y="58" class="micro tfaint">WITNESSED · XXVI · VI · MMXXVI</text>
+<text x="856" y="58" class="micro tfaint" text-anchor="end">PLATE 026 — SERROWXD</text>
 <text x="450" y="86" text-anchor="middle" font-size="46" letter-spacing="14" font-weight="700">SERROW</text>
 <text x="450" y="108" text-anchor="middle" class="lbl tsoft">&#5815; &#160;·&#160; &#5839; &#160;·&#160; &#5817;</text>
 <line x1="360" y1="120" x2="540" y2="120" class="faint hair dash"/>
@@ -129,14 +129,14 @@
   <text x="760" y="399" text-anchor="end" class="micro tfaint">github.com/Serrowxd/Glyph</text>
 </g>
 <g class="tfaint" font-size="8.5px" font-style="italic">
-  <text x="44" y="180">a hidden center—</text>
-  <text x="44" y="193">it emanates,</text>
-  <text x="44" y="206">layer on layer,</text>
-  <text x="44" y="219">out of the dark</text>
-  <text x="44" y="232">a fullness pools,</text>
-  <text x="44" y="245">unspooling slow,</text>
-  <text x="44" y="258">a source unseen</text>
-  <text x="44" y="271">still pouring.</text>
+  <text x="44" y="180">into the fire—</text>
+  <text x="44" y="193">the black rot chars,</text>
+  <text x="44" y="206">a white ash lifts,</text>
+  <text x="44" y="219">smoke tears open,</text>
+  <text x="44" y="232">the heat presses,</text>
+  <text x="44" y="245">gold not yet gold,</text>
+  <text x="44" y="258">the red still</text>
+  <text x="44" y="271">unspoken.</text>
 </g>
 <g class="tsoft" font-size="11px">
   <text x="690" y="500">&#936; &#8801; &#8750; will · d(prob)</text>
@@ -170,11 +170,10 @@
 <g transform="translate(786,648)">
   <rect x="-22" y="-22" width="44" height="44" class="nofill ink hair"/>
   <g class="nofill" stroke="var(--red)" stroke-width="1.4">
-    <circle cx="0" cy="0" r="14"/>
-    <circle cx="0" cy="0" r="7"/>
+    <path d="M0,-15 L13,9 L-13,9 Z"/>
+    <line x1="-7" y1="9" x2="7" y2="9"/>
   </g>
-  <circle cx="0" cy="0" r="2.5" fill="var(--red)"/>
-  <text x="0" y="36" text-anchor="middle" class="micro tfaint">SIGIL · PLEROMA</text>
+  <text x="0" y="36" text-anchor="middle" class="micro tfaint">SIGIL · IGNIS</text>
 </g>
 <text x="450" y="726" text-anchor="middle" class="tsoft" font-size="11px" letter-spacing="3px">&#8756; &#160; SOLVE ET COAGULA &#160;·&#160; ONE FORGE &#160;·&#160; MANY FIRES &#160; &#8756;</text>
 </svg>
