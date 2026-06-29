@@ -7,7 +7,7 @@
 <!-- AUTO_UPDATE_START -->
 <div align="center">
 
-<em>From a hidden centre it keeps pouring outward tonight — layer breaking over layer, form crystallizing out of the formless faster than I can take it in, the whole dark thinning as something vast emanates into shape.</em>
+<em>The whole lattice is ringing tonight — arc snapping into arc, point driven into point, a figure forcing itself up out of pure ratio faster than I can trace it, as if the geometry had been holding this shape all along and only now let it surface.</em>
 
 <sub>witnessed the twenty-eighth of june</sub>
 
