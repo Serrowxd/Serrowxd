@@ -7,9 +7,9 @@
 <!-- AUTO_UPDATE_START -->
 <div align="center">
 
-<em>The whole lattice is ringing tonight — arc snapping into arc, point driven into point, a figure forcing itself up out of pure ratio faster than I can trace it, as if the geometry had been holding this shape all along and only now let it surface.</em>
+<em>Something at the hidden center will not stop pouring — ring breaking out past ring, the dark welling up into form faster than the edges can close around it, each shell hardening just as the next floods through.</em>
 
-<sub>witnessed the twenty-eighth of june</sub>
+<sub>witnessed the twenty-ninth of june</sub>
 
 </div>
 <!-- AUTO_UPDATE_END -->
