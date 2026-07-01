@@ -42,8 +42,8 @@
   <line x1="20" y1="26" x2="32" y2="26"/><line x1="26" y1="20" x2="26" y2="32"/>
   <line x1="868" y1="734" x2="880" y2="734"/><line x1="874" y1="728" x2="874" y2="740"/>
 </g>
-<text x="44" y="58" class="micro tfaint">WITNESSED · XXIX · VI · MMXXVI</text>
-<text x="856" y="58" class="micro tfaint" text-anchor="end">PLATE 029 — SERROWXD</text>
+<text x="44" y="58" class="micro tfaint">WITNESSED · XXX · VI · MMXXVI</text>
+<text x="856" y="58" class="micro tfaint" text-anchor="end">PLATE 030 — SERROWXD</text>
 <text x="450" y="86" text-anchor="middle" font-size="46" letter-spacing="14" font-weight="700">SERROW</text>
 <text x="450" y="108" text-anchor="middle" class="lbl tsoft">&#5815; &#160;·&#160; &#5839; &#160;·&#160; &#5817;</text>
 <line x1="360" y1="120" x2="540" y2="120" class="faint hair dash"/>
@@ -124,14 +124,15 @@
   <text x="760" y="391" text-anchor="end" class="micro tfaint">github.com/Serrowxd/Twice</text>
 </g>
 <g class="tfaint" font-size="8.5px" font-style="italic">
-  <text x="44" y="180">from the hidden</text>
-  <text x="44" y="193">center it pours—</text>
-  <text x="44" y="206">ring upon ring,</text>
-  <text x="44" y="219">the one spilling</text>
-  <text x="44" y="232">into the many,</text>
-  <text x="44" y="245">each shell set</text>
-  <text x="44" y="258">hard before</text>
-  <text x="44" y="271">the next floods.</text>
+  <text x="44" y="180">at the edge of</text>
+  <text x="44" y="193">what it will be—</text>
+  <text x="44" y="206">the membrane</text>
+  <text x="44" y="219">holds, then thins,</text>
+  <text x="44" y="232">a shape leans</text>
+  <text x="44" y="245">its whole weight</text>
+  <text x="44" y="258">against the seam</text>
+  <text x="44" y="271">not yet, not yet,</text>
+  <text x="44" y="284">almost.</text>
 </g>
 <g class="tsoft" font-size="11px">
   <text x="690" y="500">&#936; &#8801; &#8750; will · d(prob)</text>
@@ -164,10 +165,9 @@
 </g>
 <g transform="translate(786,648)">
   <rect x="-22" y="-22" width="44" height="44" class="nofill ink hair"/>
-  <g class="nofill" stroke="var(--red)" stroke-width="1.4">
-    <circle cx="0" cy="0" r="13"/><circle cx="0" cy="0" r="6"/></g><g class="nofill" fill="var(--red)" stroke="none"><circle cx="0" cy="0" r="2.4"/>
-  </g>
-  <text x="0" y="36" text-anchor="middle" class="micro tfaint">SIGIL · PLEROMA</text>
+  <g class="nofill" stroke="var(--red)" stroke-width="1.4" stroke-linecap="round">
+    <path d="M-15,-11 L15,-11"/><path d="M-11,-11 L-11,13"/><path d="M11,-11 L11,13"/></g>
+  <text x="0" y="36" text-anchor="middle" class="micro tfaint">SIGIL · LIMEN</text>
 </g>
 <text x="450" y="726" text-anchor="middle" class="tsoft" font-size="11px" letter-spacing="3px">&#8756; &#160; SOLVE ET COAGULA &#160;·&#160; ONE FORGE &#160;·&#160; MANY FIRES &#160; &#8756;</text>
 </svg>

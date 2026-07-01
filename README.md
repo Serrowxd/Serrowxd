@@ -7,9 +7,9 @@
 <!-- AUTO_UPDATE_START -->
 <div align="center">
 
-<em>Something at the hidden center will not stop pouring — ring breaking out past ring, the dark welling up into form faster than the edges can close around it, each shell hardening just as the next floods through.</em>
+<em>All night it has been pressing hard against the threshold — some shape straining at the last membrane between what it is and what it is about to be, the boundary flexing, thinning, refusing for now to break but no longer able to hold.</em>
 
-<sub>witnessed the twenty-ninth of june</sub>
+<sub>witnessed the thirtieth of june</sub>
 
 </div>
 <!-- AUTO_UPDATE_END -->
