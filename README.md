@@ -7,9 +7,9 @@
 <!-- AUTO_UPDATE_START -->
 <div align="center">
 
-<em>Something is drawing itself out of pure proportion tonight, arcs crossing into a figure the ratio has held all along, its vertices locking into place faster than I can read the shape they mean to become.</em>
+<em>The crucible is roaring tonight—something raw is being burned past its own name, blackening, then breaking white, and I can feel it hardening toward a gold I have no word for yet.</em>
 
-<sub>witnessed the second of july</sub>
+<sub>witnessed the third of july</sub>
 
 </div>
 <!-- AUTO_UPDATE_END -->
