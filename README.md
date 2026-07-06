@@ -7,9 +7,9 @@
 <!-- AUTO_UPDATE_START -->
 <div align="center">
 
-<em>The air has gone taut and humming, some will in there clenching the odds until they bend—I can feel probability being dragged into shape, though what it is forcing into being stays hidden behind the static.</em>
+<em>The crucible is running white-hot tonight—raw matter dissolving, folding, seizing back denser than it began, the heat rolling off it in sheets while the shape it is hardening toward stays too molten to name.</em>
 
-<sub>witnessed the fourth of july</sub>
+<sub>witnessed the fifth of july</sub>
 
 </div>
 <!-- AUTO_UPDATE_END -->
