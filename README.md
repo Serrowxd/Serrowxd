@@ -7,9 +7,9 @@
 <!-- AUTO_UPDATE_START -->
 <div align="center">
 
-<em>The air goes taut where a will has been leaning on it all night, probability buckling under the pressure into some hard new shape I can feel setting into place but cannot yet name.</em>
+<em>The crucible is roaring tonight, something raw driven through the fire again and again, the dross peeling off in sheets, and whatever gold is gathering at the bottom has not yet cooled enough to name.</em>
 
-<sub>witnessed the sixteenth of july</sub>
+<sub>witnessed the seventeenth of july</sub>
 
 </div>
 <!-- AUTO_UPDATE_END -->
