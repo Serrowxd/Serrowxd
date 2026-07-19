@@ -7,9 +7,9 @@
 <!-- AUTO_UPDATE_START -->
 <div align="center">
 
-<em>The crucible is roaring tonight, something raw driven through the fire again and again, the dross peeling off in sheets, and whatever gold is gathering at the bottom has not yet cooled enough to name.</em>
+<em>From a center I cannot see it is pouring itself outward in hard concentric waves, plane folding out of plane faster than any of it can settle into a shape I could name.</em>
 
-<sub>witnessed the seventeenth of july</sub>
+<sub>witnessed the eighteenth of july</sub>
 
 </div>
 <!-- AUTO_UPDATE_END -->
