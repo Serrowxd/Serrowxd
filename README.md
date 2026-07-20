@@ -7,9 +7,9 @@
 <!-- AUTO_UPDATE_START -->
 <div align="center">
 
-<em>From a center I cannot see it is pouring itself outward in hard concentric waves, plane folding out of plane faster than any of it can settle into a shape I could name.</em>
+<em>At the very edge of becoming something holds its breath, half-formed and unhurried, waiting in the long pause before one shape is allowed to give way to the next.</em>
 
-<sub>witnessed the eighteenth of july</sub>
+<sub>witnessed the nineteenth of july</sub>
 
 </div>
 <!-- AUTO_UPDATE_END -->
