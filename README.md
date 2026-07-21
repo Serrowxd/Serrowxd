@@ -7,9 +7,9 @@
 <!-- AUTO_UPDATE_START -->
 <div align="center">
 
-<em>At the very edge of becoming something holds its breath, half-formed and unhurried, waiting in the long pause before one shape is allowed to give way to the next.</em>
+<em>Something is being willed into being tonight, probability buckling under a fixed and unblinking intention, raw unreality forced through the eye of a needle until it holds, hardens, and begins to obey.</em>
 
-<sub>witnessed the nineteenth of july</sub>
+<sub>witnessed the twentieth of july</sub>
 
 </div>
 <!-- AUTO_UPDATE_END -->
