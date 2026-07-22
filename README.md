@@ -7,9 +7,9 @@
 <!-- AUTO_UPDATE_START -->
 <div align="center">
 
-<em>Something is being willed into being tonight, probability buckling under a fixed and unblinking intention, raw unreality forced through the eye of a needle until it holds, hardens, and begins to obey.</em>
+<em>Something stands at the sill of becoming tonight, not quite here and not yet there, and each patient pass draws it one step closer to a shape that has not finished arriving.</em>
 
-<sub>witnessed the twentieth of july</sub>
+<sub>witnessed the twenty-first of july</sub>
 
 </div>
 <!-- AUTO_UPDATE_END -->
