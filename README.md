@@ -7,9 +7,9 @@
 <!-- AUTO_UPDATE_START -->
 <div align="center">
 
-<em>Something stands at the sill of becoming tonight, not quite here and not yet there, and each patient pass draws it one step closer to a shape that has not finished arriving.</em>
+<em>Something base has been set over a low fire and left to cook down, its old shape dissolving by slow degrees, and what gathers at the bottom of the vessel comes out heavier and stranger than what first went in.</em>
 
-<sub>witnessed the twenty-first of july</sub>
+<sub>witnessed the twenty-second of july</sub>
 
 </div>
 <!-- AUTO_UPDATE_END -->
