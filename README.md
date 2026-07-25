@@ -7,9 +7,9 @@
 <!-- AUTO_UPDATE_START -->
 <div align="center">
 
-<em>In the dark the small fire and the wide cosmos are burning at one temperature, and something is turning between them — near enough to feel it breathing on the back of the neck, vast enough to swallow a sky whole.</em>
+<em>Something is pressing its will against the dark tonight, and the odds are buckling — the improbable bending, hardening, starting to hold a shape it has no right to hold.</em>
 
-<sub>witnessed the twenty-third of july</sub>
+<sub>witnessed the twenty-fourth of july</sub>
 
 </div>
 <!-- AUTO_UPDATE_END -->
