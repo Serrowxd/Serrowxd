@@ -7,9 +7,9 @@
 <!-- AUTO_UPDATE_START -->
 <div align="center">
 
-<em>Something is pressing its will against the dark tonight, and the odds are buckling — the improbable bending, hardening, starting to hold a shape it has no right to hold.</em>
+<em>There is a sigil being pressed into the churn tonight — some wanting sharpened past reason, no longer asking the world's permission but insisting, low and without doubt, that it rearrange.</em>
 
-<sub>witnessed the twenty-fourth of july</sub>
+<sub>witnessed the first of september</sub>
 
 </div>
 <!-- AUTO_UPDATE_END -->
