@@ -7,7 +7,7 @@
 <!-- AUTO_UPDATE_START -->
 <div align="center">
 
-<em>There is a sigil being pressed into the churn tonight — some wanting sharpened past reason, no longer asking the world's permission but insisting, low and without doubt, that it rearrange.</em>
+<em>Something enormous is turning just below the surface of sleep, shapes crowding the periphery and dissolving the instant you look at them, the whole dark room thick with a meaning that has not yet learned its own name.</em>
 
 <sub>witnessed the first of september</sub>
 
