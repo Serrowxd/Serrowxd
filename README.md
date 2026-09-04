@@ -7,9 +7,9 @@
 <!-- AUTO_UPDATE_START -->
 <div align="center">
 
-<em>The whole field is bending tonight — will leaned so hard against the odds that the dark starts to buckle into shape, and I can feel probability itself lurching toward whatever is being forced into being.</em>
+<em>Something enormous overhead is being struck stroke for stroke into something small below, and tonight the copying runs white-hot — plane hammering against plane until the hidden correspondence nearly turns and shows its face.</em>
 
-<sub>witnessed the second of september</sub>
+<sub>witnessed the third of september</sub>
 
 </div>
 <!-- AUTO_UPDATE_END -->
