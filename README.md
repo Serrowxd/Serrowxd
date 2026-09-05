@@ -7,9 +7,9 @@
 <!-- AUTO_UPDATE_START -->
 <div align="center">
 
-<em>Something enormous overhead is being struck stroke for stroke into something small below, and tonight the copying runs white-hot — plane hammering against plane until the hidden correspondence nearly turns and shows its face.</em>
+<em>From a center I cannot see, ring after ring of form is breaking loose and hardening in the roar, more arriving out of the dark than the shape can hold.</em>
 
-<sub>witnessed the third of september</sub>
+<sub>witnessed the fourth of september</sub>
 
 </div>
 <!-- AUTO_UPDATE_END -->
