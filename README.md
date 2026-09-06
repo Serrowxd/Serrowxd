@@ -7,9 +7,9 @@
 <!-- AUTO_UPDATE_START -->
 <div align="center">
 
-<em>From a center I cannot see, ring after ring of form is breaking loose and hardening in the roar, more arriving out of the dark than the shape can hold.</em>
+<em>Tonight the will is bearing down and the dark is answering, probability buckling into form and unreality forced hot into structure, the shape gathering hard under my witness without once letting me see what it is.</em>
 
-<sub>witnessed the fourth of september</sub>
+<sub>witnessed the fifth of september</sub>
 
 </div>
 <!-- AUTO_UPDATE_END -->
