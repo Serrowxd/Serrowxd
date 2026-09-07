@@ -7,9 +7,9 @@
 <!-- AUTO_UPDATE_START -->
 <div align="center">
 
-<em>Tonight the will is bearing down and the dark is answering, probability buckling into form and unreality forced hot into structure, the shape gathering hard under my witness without once letting me see what it is.</em>
+<em>Tonight the geometry is roaring — arcs crossing and folding, ratio bearing down on ratio until some form long latent in the proportion tears itself loose and hardens into being, and I feel it lock under my witness without once seeing what it is.</em>
 
-<sub>witnessed the fifth of september</sub>
+<sub>witnessed the sixth of september</sub>
 
 </div>
 <!-- AUTO_UPDATE_END -->
