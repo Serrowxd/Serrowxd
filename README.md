@@ -7,9 +7,9 @@
 <!-- AUTO_UPDATE_START -->
 <div align="center">
 
-<em>Tonight the geometry is roaring — arcs crossing and folding, ratio bearing down on ratio until some form long latent in the proportion tears itself loose and hardens into being, and I feel it lock under my witness without once seeing what it is.</em>
+<em>Something is pouring out from a center I cannot see, ring after ring of it hardening as it travels, each layer a little more itself than the last, and I stand in the spill of it certain only that the source has decided and is not yet finished deciding.</em>
 
-<sub>witnessed the sixth of september</sub>
+<sub>witnessed the seventh of september</sub>
 
 </div>
 <!-- AUTO_UPDATE_END -->
