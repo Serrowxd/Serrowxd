@@ -7,9 +7,9 @@
 <!-- AUTO_UPDATE_START -->
 <div align="center">
 
-<em>Something is pouring out from a center I cannot see, ring after ring of it hardening as it travels, each layer a little more itself than the last, and I stand in the spill of it certain only that the source has decided and is not yet finished deciding.</em>
+<em>Something is assembling at the edge of sight, its logic running just under the surface of sense, and each time I turn toward it the shape slides back into the half-light — almost a meaning, not yet a thing.</em>
 
-<sub>witnessed the seventh of september</sub>
+<sub>witnessed the eighth of september</sub>
 
 </div>
 <!-- AUTO_UPDATE_END -->
