@@ -42,8 +42,8 @@
   <line x1="20" y1="26" x2="32" y2="26"/><line x1="26" y1="20" x2="26" y2="32"/>
   <line x1="868" y1="734" x2="880" y2="734"/><line x1="874" y1="728" x2="874" y2="740"/>
 </g>
-<text x="44" y="58" class="micro tfaint">WITNESSED · VIII · IX · MMXXVI</text>
-<text x="856" y="58" class="micro tfaint" text-anchor="end">PLATE 055 — SERROWXD</text>
+<text x="44" y="58" class="micro tfaint">WITNESSED · IX · IX · MMXXVI</text>
+<text x="856" y="58" class="micro tfaint" text-anchor="end">PLATE 056 — SERROWXD</text>
 <text x="450" y="86" text-anchor="middle" font-size="46" letter-spacing="14" font-weight="700">SERROW</text>
 <text x="450" y="108" text-anchor="middle" class="lbl tsoft">&#5815; &#160;·&#160; &#5839; &#160;·&#160; &#5817;</text>
 <line x1="360" y1="120" x2="540" y2="120" class="faint hair dash"/>
@@ -114,24 +114,29 @@
   <text x="566" y="464" class="anno tsoft">the point before the name</text>
 </g>
 <g>
-  <line x1="660" y1="300" x2="760" y2="300" class="ink hair"/>
-  <text x="760" y="291" text-anchor="end" class="lbl tsoft">THE WORK</text>
-  <text x="760" y="309" text-anchor="end" class="micro tfaint">i named</text>
-  <text x="760" y="330" text-anchor="end" font-size="22" letter-spacing="3" font-weight="700">PORTFOLIO</text>
-  <text x="760" y="346" text-anchor="end" class="anno tsoft">the self, rebuilt in three.js</text>
-  <text x="760" y="359" text-anchor="end" class="anno tsoft">static &#183; owned &#183; a descent</text>
-  <path d="M672,338 C640,360 618,372 600,384" class="nofill soft hair dash" marker-end="url(#ar)"/>
-  <text x="760" y="373" text-anchor="end" class="micro tfaint">github.com/Serrowxd/serrowxd.github.io</text>
+  <line x1="660" y1="216" x2="760" y2="216" class="ink hair"/>
+  <text x="760" y="207" text-anchor="end" class="lbl tsoft">THE WORK</text>
+  <text x="760" y="225" text-anchor="end" class="micro tfaint">ii named</text>
+  <text x="760" y="260" text-anchor="end" font-size="22" letter-spacing="3" font-weight="700">TWICE</text>
+  <text x="760" y="276" text-anchor="end" class="anno tsoft">a companion for plural minds</text>
+  <text x="760" y="289" text-anchor="end" class="anno tsoft">journaled &#183; synced &#183; skinned</text>
+  <path d="M672,268 C636,300 612,334 598,356" class="nofill soft hair dash" marker-end="url(#ar)"/>
+  <text x="760" y="303" text-anchor="end" class="micro tfaint">github.com/Serrowxd/Twice</text>
+  <text x="760" y="366" text-anchor="end" font-size="22" letter-spacing="3" font-weight="700">PORTFOLIO</text>
+  <text x="760" y="382" text-anchor="end" class="anno tsoft">the self, rebuilt in three.js</text>
+  <text x="760" y="395" text-anchor="end" class="anno tsoft">static &#183; owned &#183; a descent</text>
+  <path d="M672,374 C640,398 616,414 600,424" class="nofill soft hair dash" marker-end="url(#ar)"/>
+  <text x="760" y="409" text-anchor="end" class="micro tfaint">github.com/Serrowxd/serrowxd.github.io</text>
 </g>
 <g class="tfaint" font-size="8.5px" font-style="italic">
-  <text x="44" y="180">at the edge of</text>
-  <text x="44" y="193">sight it gathers</text>
-  <text x="44" y="206">a logic just</text>
-  <text x="44" y="219">below the sense</text>
-  <text x="44" y="232">of it — turn</text>
-  <text x="44" y="245">and it slides</text>
-  <text x="44" y="258">to half-light</text>
-  <text x="44" y="271">still unnamed</text>
+  <text x="44" y="180">at the seam of</text>
+  <text x="44" y="193">what it was and</text>
+  <text x="44" y="206">what it becomes</text>
+  <text x="44" y="219">form crowds the</text>
+  <text x="44" y="232">threshold, press-</text>
+  <text x="44" y="245">ing to cross —</text>
+  <text x="44" y="258">the air splits</text>
+  <text x="44" y="271">before it lands</text>
 </g>
 <g class="tsoft" font-size="11px">
   <text x="690" y="500">&#936; &#8801; &#8750; will · d(prob)</text>
@@ -165,8 +170,9 @@
 <g transform="translate(786,648)">
   <rect x="-22" y="-22" width="44" height="44" class="nofill ink hair"/>
   <g stroke="var(--red)" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" fill="none">
-    <path d="M4,-15 A15 15 0 1 0 4,15 A11 11 0 0 1 4,-15 Z"/></g>
-  <text x="0" y="36" text-anchor="middle" class="micro tfaint">SIGIL · HYPNOS</text>
+    <path d="M-11,14 L-11,-11 L11,-11 L11,14"/>
+    <path d="M-16,14 L16,14"/></g>
+  <text x="0" y="36" text-anchor="middle" class="micro tfaint">SIGIL · LIMEN</text>
 </g>
 <text x="450" y="726" text-anchor="middle" class="tsoft" font-size="11px" letter-spacing="3px">&#8756; &#160; SOLVE ET COAGULA &#160;·&#160; ONE FORGE &#160;·&#160; MANY FIRES &#160; &#8756;</text>
 </svg>

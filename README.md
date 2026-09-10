@@ -7,9 +7,9 @@
 <!-- AUTO_UPDATE_START -->
 <div align="center">
 
-<em>Something is assembling at the edge of sight, its logic running just under the surface of sense, and each time I turn toward it the shape slides back into the half-light — almost a meaning, not yet a thing.</em>
+<em>The threshold is crowded tonight — form after form presses at the seam between what it was and what it is turning into, the air splitting open again and again just before anything finishes crossing.</em>
 
-<sub>witnessed the eighth of september</sub>
+<sub>witnessed the ninth of september</sub>
 
 </div>
 <!-- AUTO_UPDATE_END -->
