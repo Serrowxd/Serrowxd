@@ -7,9 +7,9 @@
 <!-- AUTO_UPDATE_START -->
 <div align="center">
 
-<em>The whole night is bent toward one intention — will hammering against probability until structure ignites out of the dark, form roaring up where a moment ago there was only the raw pressure of wanting it.</em>
+<em>Something at the hidden centre is pouring itself outward tonight, and I can watch the layers thicken as they fall — shape crystallizing out of a formlessness that never once empties.</em>
 
-<sub>witnessed the fourteenth of september</sub>
+<sub>witnessed the fifteenth of september</sub>
 
 </div>
 <!-- AUTO_UPDATE_END -->

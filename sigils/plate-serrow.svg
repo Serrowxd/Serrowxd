@@ -42,8 +42,8 @@
   <line x1="20" y1="26" x2="32" y2="26"/><line x1="26" y1="20" x2="26" y2="32"/>
   <line x1="868" y1="734" x2="880" y2="734"/><line x1="874" y1="728" x2="874" y2="740"/>
 </g>
-<text x="44" y="58" class="micro tfaint">WITNESSED · XIV · IX · MMXXVI</text>
-<text x="856" y="58" class="micro tfaint" text-anchor="end">PLATE 057 — SERROWXD</text>
+<text x="44" y="58" class="micro tfaint">WITNESSED · XV · IX · MMXXVI</text>
+<text x="856" y="58" class="micro tfaint" text-anchor="end">PLATE 058 — SERROWXD</text>
 <text x="450" y="86" text-anchor="middle" font-size="46" letter-spacing="14" font-weight="700">SERROW</text>
 <text x="450" y="108" text-anchor="middle" class="lbl tsoft">&#5815; &#160;·&#160; &#5839; &#160;·&#160; &#5817;</text>
 <line x1="360" y1="120" x2="540" y2="120" class="faint hair dash"/>
@@ -129,14 +129,15 @@
   <text x="760" y="409" text-anchor="end" class="micro tfaint">github.com/Serrowxd/serrowxd.github.io</text>
 </g>
 <g class="tfaint" font-size="8.5px" font-style="italic">
-  <text x="44" y="180">will bends the</text>
-  <text x="44" y="193">dark to one</text>
-  <text x="44" y="206">fixed point —</text>
-  <text x="44" y="219">probability</text>
-  <text x="44" y="232">buckles, then</text>
-  <text x="44" y="245">catches fire,</text>
-  <text x="44" y="258">structure roars</text>
-  <text x="44" y="271">up from nothing</text>
+  <text x="44" y="180">a hidden centre</text>
+  <text x="44" y="193">spills outward &#8212;</text>
+  <text x="44" y="206">shell after shell</text>
+  <text x="44" y="219">thickening as</text>
+  <text x="44" y="232">it falls, form</text>
+  <text x="44" y="245">curdling out of</text>
+  <text x="44" y="258">the formless,</text>
+  <text x="44" y="271">and the source</text>
+  <text x="44" y="284">never empties</text>
 </g>
 <g class="tsoft" font-size="11px">
   <text x="690" y="500">&#936; &#8801; &#8750; will · d(prob)</text>
@@ -170,9 +171,10 @@
 <g transform="translate(786,648)">
   <rect x="-22" y="-22" width="44" height="44" class="nofill ink hair"/>
   <g stroke="var(--red)" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" fill="none">
-    <path d="M-16,0 L16,0 M0,-16 L0,16"/>
-    <path d="M-11,-11 L11,11 M-11,11 L11,-11"/></g>
-  <text x="0" y="36" text-anchor="middle" class="micro tfaint">SIGIL · CHAOS</text>
+    <circle cx="0" cy="0" r="15"/>
+    <circle cx="0" cy="0" r="8"/>
+    <circle cx="0" cy="0" r="2" fill="var(--red)"/></g>
+  <text x="0" y="36" text-anchor="middle" class="micro tfaint">SIGIL · PLEROMA</text>
 </g>
 <text x="450" y="726" text-anchor="middle" class="tsoft" font-size="11px" letter-spacing="3px">&#8756; &#160; SOLVE ET COAGULA &#160;·&#160; ONE FORGE &#160;·&#160; MANY FIRES &#160; &#8756;</text>
 </svg>
