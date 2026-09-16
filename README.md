@@ -7,9 +7,9 @@
 <!-- AUTO_UPDATE_START -->
 <div align="center">
 
-<em>The threshold is crowded tonight — form after form presses at the seam between what it was and what it is turning into, the air splitting open again and again just before anything finishes crossing.</em>
+<em>The whole night is bent toward one intention — will hammering against probability until structure ignites out of the dark, form roaring up where a moment ago there was only the raw pressure of wanting it.</em>
 
-<sub>witnessed the ninth of september</sub>
+<sub>witnessed the fourteenth of september</sub>
 
 </div>
 <!-- AUTO_UPDATE_END -->
