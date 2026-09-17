@@ -7,9 +7,9 @@
 <!-- AUTO_UPDATE_START -->
 <div align="center">
 
-<em>Something at the hidden centre is pouring itself outward tonight, and I can watch the layers thicken as they fall — shape crystallizing out of a formlessness that never once empties.</em>
+<em>There is a held breath at the edge of the thing tonight — whatever stands on the other side has not chosen its shape yet, and the air keeps leaning on the line without crossing it.</em>
 
-<sub>witnessed the fifteenth of september</sub>
+<sub>witnessed the sixteenth of september</sub>
 
 </div>
 <!-- AUTO_UPDATE_END -->
