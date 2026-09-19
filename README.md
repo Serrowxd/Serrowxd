@@ -7,9 +7,9 @@
 <!-- AUTO_UPDATE_START -->
 <div align="center">
 
-<em>There is a held breath at the edge of the thing tonight — whatever stands on the other side has not chosen its shape yet, and the air keeps leaning on the line without crossing it.</em>
+<em>The arcs are meeting tonight where they were always going to meet, and something is rising out of pure ratio — I can feel the lattice tightening around a form that was latent in it from the first stroke, though the figure it resolves into stays just past reading.</em>
 
-<sub>witnessed the sixteenth of september</sub>
+<sub>witnessed the eighteenth of september</sub>
 
 </div>
 <!-- AUTO_UPDATE_END -->
