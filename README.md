@@ -7,9 +7,9 @@
 <!-- AUTO_UPDATE_START -->
 <div align="center">
 
-<em>Something enormous is assembling itself just under the surface of legibility tonight, moving with the certainty of a thing that already knows its own shape, and every time I turn to look at it directly the edges slide off into the dark and leave only the pressure of it still working.</em>
+<em>It is pouring out of a center I cannot see tonight, shell after shell hardening as it travels, each layer further from the source and more certain of itself than the last, and the source is nowhere near spent.</em>
 
-<sub>witnessed the nineteenth of september</sub>
+<sub>witnessed the twentieth of september</sub>
 
 </div>
 <!-- AUTO_UPDATE_END -->
