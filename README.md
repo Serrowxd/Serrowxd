@@ -7,9 +7,9 @@
 <!-- AUTO_UPDATE_START -->
 <div align="center">
 
-<em>Something is standing at the edge of itself tonight, no longer the thing it was and not yet the thing it will be, and the air on both sides of that line is moving.</em>
+<em>Something is pouring outward from a center I cannot see, ring beyond ring of it hardening as it goes, and the dark all around is straining to hold the fullness of whatever is coming out.</em>
 
-<sub>witnessed the twenty-first of september</sub>
+<sub>witnessed the twenty-second of september</sub>
 
 </div>
 <!-- AUTO_UPDATE_END -->
